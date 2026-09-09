@@ -4,13 +4,12 @@
     "description": "Competitive PvP, Survival & Events!",
     "addresses": [
         "flamesmp.gg",
-        "flamesmp.org",
-        "flamefrags.com",
-        "flamefrags.net"
+        "flamesmp.org"
     ],
     "primaryAddress": "play.flamesmp.gg",
     "minecraftVersions": [
-        "26.*",
+        "26.1.*",
+        "26.2.*",
         "1.21.11",
         "1.21.10",
         "1.21.9",
@@ -31,8 +30,10 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
         "Survival",
+        "Practice",
         "PvP"
     ],
     "website": "https://flamesmp.gg",
@@ -41,7 +42,7 @@
         "rules": "https://flamesmp.gg/rules"
     },
     "socials": {
-        "discord": "https://discord.gg/flamegg"
+        "discord": "https://discord.gg/flamesmp"
     },
     "crossplay": true
 }
